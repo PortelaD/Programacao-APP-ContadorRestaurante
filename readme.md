@@ -17,7 +17,7 @@ O Contador Restaurante é um aplicativo que ajuda a contar o número de pessoas 
 
 1. Clone este repositório:
 ```bash
-git clone 
+git clone https://github.com/PortelaD/Programacao-APP-ContadorRestaurante.git
 ```
 
 2. Instale as dependências:
